@@ -1,4 +1,4 @@
-# JavaFileUploader V1.0
+# CodeNameOneFileUploader V1.0
 
 ### Server configuration:
 1. Create a folder inside your server (www for wamp).
